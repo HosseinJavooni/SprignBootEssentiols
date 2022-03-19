@@ -9,4 +9,3 @@ public class Anime {
     private int id;
     private String name;
 }
-
